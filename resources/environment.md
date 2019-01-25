@@ -61,6 +61,23 @@ requires getting the neccesary tools working!
    
 More to come...
 
+### Choosing a text editor or IDE (Integrated Development Environment)
+
+* The [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) text editor: see above. A nice combination with notebooks.
+* [nano](https://www.nano-editor.org): available on most unix commandlines (e.g. DataHub Terminal).
+* [vi](https://en.wikipedia.org/wiki/Vi): lightweight, productive text-editor available on most
+  command-lines, if you can ever learn how to use it. Beware opening
+  vi, as you may never figure out how to quit (literally).
+* [emacs](https://www.gnu.org/s/emacs/): A text editor for those who prefer a life of endless
+  toil. Endlessly customizable, it promises everything, but you're
+  never good enough to deliver. The preferred text editor of the prof.
+* [sublime](https://www.sublimetext.com/): Basic, servicable python
+  IDE; can only work locally.
+* [atom](https://atom.io/): GitHub's editor. Pretty nice fully
+  featured IDE. Can only work locally.
+* [PyCharm (IntelliJ)](https://www.jetbrains.com/pycharm/): Those who
+  feel at home coding Java. Can only work locally.
+
 ## Customizing your Environment
 
 To come...
