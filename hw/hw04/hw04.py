@@ -306,7 +306,7 @@ def fill_sd_res_mar(stops):
 
     :Example:
     >>> stops = pd.read_csv(os.path.join('data', 'stops.test.csv'))
-    >>> out = fill_sd_res_mcar(stops)
+    >>> out = fill_sd_res_mar(stops)
     >>> len(out) == 1000
     True
     >>> (out.unique() == np.array([0,1])).all()
