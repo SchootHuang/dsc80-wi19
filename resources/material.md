@@ -56,3 +56,14 @@ Chapters 4/5/6](https://www.textbook.ds100.org/)
 
 * Visualization:
   - [DS100 Textbook: Chapter 6](https://www.textbook.ds100.org/ch/06/viz_intro.html)
+
+* Geographical Mapping:
+  - [GeoJson](https://macwright.org/2015/03/23/geojson-second-bite.html)
+  - [Haversine Distance](https://en.wikipedia.org/wiki/Haversine_formula)
+
+* Web Scraping:
+  - [HTTP Requests](https://www.w3schools.com/tags/ref_httpmethods.asp)
+  - [HTML](http://fab.academany.org/2018/labs/fablaboshanghai/students/bob-wu/Fabclass/week2_project_management/HTML.html)
+  - [API Introduction](https://www.dataquest.io/blog/python-api-tutorial/)
+  - [Scraping Tutorial](https://towardsdatascience.com/an-introduction-to-web-scraping-with-python-bc9563fe8860)
+    
