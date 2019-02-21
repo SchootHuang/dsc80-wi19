@@ -67,3 +67,8 @@ Chapters 4/5/6](https://www.textbook.ds100.org/)
   - [API Introduction](https://www.dataquest.io/blog/python-api-tutorial/)
   - [Scraping Tutorial](https://towardsdatascience.com/an-introduction-to-web-scraping-with-python-bc9563fe8860)
     
+* Text Data:
+  - [Regex](https://www.textbook.ds100.org/ch/08/text_intro.html)
+  - [Bag of Words](https://en.wikipedia.org/wiki/Bag-of-words_model)
+  - [Document-term matrix](https://en.wikipedia.org/wiki/Document-term_matrix)
+  - [TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
