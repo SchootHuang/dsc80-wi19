@@ -277,7 +277,7 @@ def tfidf_data(review, reviews):
     >>> review = open(os.path.join('data', 'review.txt'), encoding='utf8').read().strip()
     >>> out = tfidf_data(review, reviews)
     >>> out['cnt'].sum()
-    164
+    85
     >>> 'before' in out.index
     True
     """
