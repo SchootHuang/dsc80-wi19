@@ -72,3 +72,17 @@ Chapters 4/5/6](https://www.textbook.ds100.org/)
   - [Bag of Words](https://en.wikipedia.org/wiki/Bag-of-words_model)
   - [Document-term matrix](https://en.wikipedia.org/wiki/Document-term_matrix)
   - [TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
+
+
+### Models: Prediction and Inference
+
+* Feature Engineering
+  - [DS100 Textbook: Chapter 14](https://www.textbook.ds100.org/ch/14/feature_engineering.html)
+  - []()
+
+* Intro to Modeling
+  - [Modeling and Estimation (10.1, 10.2)](https://www.textbook.ds100.org/ch/10/modeling_intro.html)
+  - [Linear Models](https://www.textbook.ds100.org/ch/13/linear_models.html)
+
+* Bias-Variance Trade-off; evaluating models
+  - [Model Bias and Variance (15.2, 15.3)](https://www.textbook.ds100.org/ch/15/bias_intro.html)
