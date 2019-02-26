@@ -1,0 +1,4 @@
+a text relevance is the correspondence of the text of a page or the whole site to a specific query the higher the text relevance the more chances your page will get on the first line of searching engine results with other factors being equal
+a text relevance in a search is a measure of the compliance of a set of inline word factors of a page with a user supplied query intra word factors include headings word content word formatting tag attributes
+a relevance in a general sense is the compliance of the document with the users expectations thus search relevance is the degree of user satisfaction with the search results shown in response to his query calculated using search engine algorithms
+a document compliance with user requests as well as compliance with the rules of search engines allow this site to occupy higher positions in the search 
