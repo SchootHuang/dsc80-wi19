@@ -53,7 +53,7 @@ def create_age_feats():
     >>> stops = pd.read_csv(fp)[['subject_age']]
     >>> pl.fit(stops) # doctest:+ELLIPSIS
     Pipeline(...)
-    >>> pl.transform(stops.iloc[0:1])[0][0] == 25
+    >>> pl.transform(stops.iloc[0:1])[0][0] == 20
     True
     """
 
