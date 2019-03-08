@@ -158,7 +158,7 @@ class AdditiveSmoother(BaseEstimator, ClassifierMixin):
     >>> asm = AdditiveSmoother()
     >>> asm.fit(stops[['subject_sex']], searched)
     AdditiveSmoother(alpha=100)
-    >>> np.isclose(asm.srate, 5.4e-05)
+    >>> np.isclose(asm.srate, 0.054)
     True
     >>> internal = asm.smdists['subject_sex']['M']
     >>> out = asm.transform(stops[['subject_sex']].iloc[[0]])[0][0]
