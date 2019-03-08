@@ -86,3 +86,11 @@ Chapters 4/5/6](https://www.textbook.ds100.org/)
 
 * Bias-Variance Trade-off; evaluating models
   - [Model Bias and Variance (15.2, 15.3)](https://www.textbook.ds100.org/ch/15/bias_intro.html)
+
+### Inference: Hypothesis testing and permutation tests
+
+* [Hypothesis Testing -- DSC 10](https://www.inferentialthinking.com/chapters/11/Testing_Hypotheses.html)
+
+* [Permutation Testing -- DSC 10](https://www.inferentialthinking.com/chapters/12/Comparing_Two_Samples.html)
+
+* [Inference (both above topics) -- DS100](https://www.textbook.ds100.org/ch/18/hyp_intro.html)
