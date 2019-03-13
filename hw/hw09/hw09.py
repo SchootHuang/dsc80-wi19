@@ -145,7 +145,7 @@ def obs_perm_stat(stops, col='service_area'):
     >>> fp = os.path.join('data', 'vehicle_stops_datasd.csv')
     >>> stops = pd.read_csv(fp)
     >>> out = obs_perm_stat(stops)
-    >>> 0.005 < out < 0.025
+    >>> 0.20 < out < 0.30
     True
     """
 
